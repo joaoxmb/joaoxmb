@@ -1,12 +1,4 @@
 # João Victor
-
-<h3>🇺🇸</h3>
-I'm an enthusiastic programmer with solid skills in JavaScript, HTML and CSS, passionate about transforming concepts into interactive digital solutions. I have experience in web development and creating filters for Instagram, as well as a strong motivation to learn and constantly grow in the programming area.
-
-I expanded my knowledge and skills to include frameworks such as React, React Native, Next.js and Vue.js. Additionally, I have experience with Bootstrap, jQuery, HTML5, CSS3, JSON, Git & GitHub, TypeScript and Node.js.
-
-In the design space, I'm familiar with Figma for responsive UI/UX design, as well as Adobe and Spark Ar. I'm always looking for new opportunities to expand my skills and contribute innovative solutions in the programming space.
-
 <h3>🇧🇷</h3>
 Sou um programador entusiasta com habilidades sólidas em JavaScript, HTML e CSS, apaixonado por transformar conceitos em soluções digitais interativas. Tenho experiência em desenvolvimento web e na criação de filtros para o Instagram, além de uma forte motivação para aprender e crescer constantemente na área da programação.
 
