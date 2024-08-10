@@ -1,10 +1,10 @@
 # João Victor
 <h3>🇧🇷</h3>
-Sou um programador entusiasta com habilidades sólidas em JavaScript, HTML e CSS, apaixonado por transformar conceitos em soluções digitais interativas. Tenho experiência em desenvolvimento web e na criação de filtros para o Instagram, além de uma forte motivação para aprender e crescer constantemente na área da programação.
+Tenho experiência em Engenharia de Software com foco em desenvolvimento full-stack, utilizando TypeScript, JavaScript, jQuery e Node.js. No Front-End, trabalho com React e Next.js, e para estilização, sou proficiente em Tailwind, Styled-Components, SASS, LESS e Bootstrap. Utilizo Git e GitHub para controle de versão e metodologias ágeis como Scrum para gerenciamento de projetos.
 
-Ampliei meus conhecimentos e habilidades para incluir frameworks como React, React Native, Next.js e Vue.js. Além disso, tenho experiência com Bootstrap, jQuery, HTML5, CSS3, JSON, Git & GitHub, TypeScript e Node.js.
+No design, sou familiarizado com Figma para UI/UX, além de Adobe e Spark AR para criação de filtros para Instagram e Facebook. Estou sempre buscando oportunidades para expandir minhas habilidades e contribuir com soluções inovadoras.
 
-No campo do design, estou familiarizado com o Figma para design responsivo de UI/UX, bem como com o Adobe e o Spark Ar. Estou sempre buscando novas oportunidades para expandir minhas habilidades e contribuir com soluções inovadoras no área da programação.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta, aprimorando continuamente meus conhecimentos na área.
 
 <br>
 
