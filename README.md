@@ -10,5 +10,5 @@ I have experience with **TypeScript, JavaScript, Node.js, React, and Next.js**. 
 Most used languages
 
 <div>
-   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxmb&layout=compact&langs_count=20&theme=transparent&title_color=4a86d1&hide_border=true&hide_title=true"  alt="Most used languages">
+   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxmb&langs_count=20&theme=github_dark_dimmed&hide_border=true&hide_title=true"  alt="Most used languages">
 </div>
