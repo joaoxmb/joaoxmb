@@ -1,13 +1,14 @@
-# João Victor
-<h3>🇧🇷</h3>
-Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, com experiência em desenvolvimento full-stack utilizando TypeScript, JavaScript, jQuery e Node.js. No front-end, trabalho com React e Next.js, e sou proficiente em Tailwind, Styled-Components, SASS, LESS e Bootstrap. Utilizo Git e GitHub para controle de versão e aplico Scrum para gerenciamento ágil de meus projetos. 
-<br />
-<br />
-Tenho também experiência em design UI/UX com Figma e ferramentas da Adobe. Estou interessado em me especializar no desenvolvimento de aplicações web e mobile, e busco constantemente aprimorar minhas habilidades nessas áreas.
-<br />
-<br />
+### João Victor
+I'm a Systems Analysis and Development student at Faculdade Impacta, passionate about **Full-Stack Web** development. 
+
+---
+
+### 🇧🇷
+I have experience with **TypeScript, JavaScript, Node.js, React, and Next.js**. On the front-end, I'm familiar with **Tailwind, SASS, LESS, Bootstrap**, and more. I also have experience in **UI/UX** with **Figma** and **Adobe** tools. Always looking to improve in **web** and **mobile** development.
+
+### ✨
+Most used languages
 
 <div>
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoxmb&show_icons=true&theme=transparent">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxmb&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages">
+   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxmb&layout=compact&langs_count=20&theme=transparent&title_color=4a86d1&hide_border=true&hide_title=true"  alt="Most used languages">
 </div>
